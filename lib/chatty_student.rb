@@ -10,6 +10,7 @@ class ChattyStudent < Student
     while count != 10
       super
       count += 1
+    end
   
   end
 
