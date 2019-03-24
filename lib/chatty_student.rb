@@ -11,7 +11,6 @@ class ChattyStudent < Student
       super
       count += 1
     end
-  
   end
 
 end
